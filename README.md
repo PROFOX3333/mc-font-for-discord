@@ -1,7 +1,8 @@
 # Minecraft font for discord
-**compatibility:**
+**Compatibility:**
 - this is made to work on bunnycord (a modified version of discord)
-## How to use
+
+**How to use:**
 - **1:** Copy this link (coming soon)
 
 - **2:** Go to bunnycord, then settings, then Fonts, and click the blue (**+**) icon down, click on "**import font entries from a link**" paste the link you just copied from step 1 and click import
